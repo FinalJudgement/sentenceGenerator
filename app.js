@@ -1,6 +1,6 @@
 const wordObj = {
-    subject: ["my", "the", "your", "their", "his", "her"],
-    object: ["dad", "mom", "dog", "cat", "teacher", "wife", "husband"],
+    subject: ["my", "your", "their", "his", "her"],
+    object: ["dad", "mom", "dog", "cat", "teacher", "son", "daughter"],
     emotion: ["hates", "loves", "likes", "loathes", "enjoys"],
     verb: ["throwing", "eating", "watching", "jumping on", "running to", "sleeping on"],
     item: ["tacos", "video tapes", "pillows", "base balls", "trampolines", "the dinner table"]
